@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Dannxpr/Dannxpr/blob/main/Banner.Danny.png?raw=true" />
+</p>
 # 📘 README – Perfil del Estudiante
 
 ## 🧾 Información General
